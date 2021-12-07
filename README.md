@@ -16,9 +16,7 @@ This dataset is a collection of 802 pokemon from all seven generations of pokemo
 Discussion: 
 After analysis of the data, we can give our results to the questions we made previous to this report.  To restate, these questions aim to find some stat or best feature of a given pokemon or grouping of pokemon.  
 
-In our first question, we aimed to find how type and defence relate to one another.  This means finding the average for each type of pokemon and finding which one yielded higher defence stats.  After calculating to find the averages of each, we came up with the concluded that steal was the stronest.
-
-The graph we made shows the average defence per type.  The highest two come with no surprise with steel and rock having the highest stats.  The weakest is normal with others coming close and them being electric and poison.
+In our first question, we aimed to find how type and defence relate to one another.  This means finding the average for each type of pokemon and finding which one yielded higher defence stats.  After calculating to find the averages of each, we came up with the concluded that steal was the stronest.  The graph we made shows the average defence per type.  The highest two come with no surprise with steel and rock having the highest stats.  The weakest is normal with others coming close and them being electric and poison.
 
 Another question we seeked to answer is whether or not weight had an affect on the attack of a pokemon.  In order to do this we sought out the correlation of the two stats: weight and attack as well as weight and special attack.  We found that the correlation between weight attack to be 0.382183.  This is a relatively small number but it does prove that as weight increases, the attack slightly does as well.  Though this value isn't above 0.5 which means it isn't a significant number. For the weight and special attack, the number was 0.235218 which is even smaller than the previous value meaning it is less significant.  But, it still does show there is a very small correlation between weight and special attack.
 
