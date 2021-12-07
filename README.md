@@ -20,7 +20,8 @@ In our first question, we aimed to find how type and defence relate to one anoth
 
 Another question we seeked to answer is whether or not weight had an affect on the attack of a pokemon.  In order to do this we sought out the correlation of the two stats: weight and attack as well as weight and special attack.  We found that the correlation between weight attack to be 0.382183.  This is a relatively small number but it does prove that as weight increases, the attack slightly does as well.  Though this value isn't above 0.5 which means it isn't a significant number. For the weight and special attack, the number was 0.235218 which is even smaller than the previous value meaning it is less significant.  But, it still does show there is a very small correlation between weight and special attack.
 
-We wondered what the greatest offensive pokemon would be so we searched for the pokemon with the highest attack and speed stat combination.  We found that Mega-Aerodactyle was the greatest in this case.  We found this by sorting through rock type pokemon because they had the best ratio of being effective vs not.  Rock type had a ratio of 4:3 which means it's more effective against more types compared to other types of pokemon.
+We wondered what the greatest offensive pokemon would be so we searched for the pokemon with the highest attack and speed stat combination.  We found that Mega-Aerodactyle was the greatest in this case.  We found this by sorting through rock type pokemon because they had the best ratio of being effective vs not.  Rock type had a ratio of 4:3 which means it's more effective against more types compared to other types of pokemon.  Next, the attack and speed stats of all the rock-type pokemon had to be added together to find the highest overall value. This led to us finding that Mega-Aerodactyl had the highest overall speed + attack stat of all rock-type pokemon with a whopping 285.
+
 
 
 Conclusion: 
